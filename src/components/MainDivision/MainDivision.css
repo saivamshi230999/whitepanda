@@ -1,0 +1,59 @@
+.card_title{
+	font-size: 17px;
+	text-align: left;
+	margin-left: 5rem;
+	font-weight: bold;
+	color:rgb(0,0,0,0.7);
+	
+	line-height: normal;
+	padding-left: 20px;
+}
+.cards:hover #hover_effect{
+	color: #20B2AA;
+}
+
+
+#image{
+	background: url('./bird_logo.png');
+	float:left;
+	height: 73px;
+	width: 73px;
+	border-radius: 50%;
+	padding-top: 0px;
+}
+
+.card_text{
+	font-size: 14px;
+	color: #a6a6a6;
+	text-align: left;
+	padding-top: 13px;
+}
+
+.cards{
+	height: 270px;
+	z-index: 20;
+	background-color: white;
+	text-align: left;
+	padding-left: 35px;
+	line-height: 1.6;
+	box-shadow: 0 3px 5px 0 rgba(0,0,0,0.1);
+	transition: box-shadow 0.3s ease-in-out;
+}
+
+.cards:hover{
+	box-shadow: 0 5px 7px 2px rgba(0,0,0,0.3);
+}
+.cards:hover #image{
+	background: #20B2AA;
+}
+
+.button2{
+	border-color: #20B2AA;
+	background-color: white;
+	border-radius: 4px;
+	width: 120px;
+	height: 30px;
+	text-align: center;
+	border-width: 1.3px 1.3px 1.3px 1.3px;
+	font-size: 15px;
+}
