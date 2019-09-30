@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whitepanda/static/css/main.ab3c59bf.chunk.css",
+    "main.js": "/whitepanda/static/js/main.15253eba.chunk.js",
+    "main.js.map": "/whitepanda/static/js/main.15253eba.chunk.js.map",
+    "runtime-main.js": "/whitepanda/static/js/runtime-main.591c2cb8.js",
+    "runtime-main.js.map": "/whitepanda/static/js/runtime-main.591c2cb8.js.map",
+    "static/js/2.819bb253.chunk.js": "/whitepanda/static/js/2.819bb253.chunk.js",
+    "static/js/2.819bb253.chunk.js.map": "/whitepanda/static/js/2.819bb253.chunk.js.map",
+    "index.html": "/whitepanda/index.html",
+    "precache-manifest.7ba7349f0fdacb72de18c090aa967905.js": "/whitepanda/precache-manifest.7ba7349f0fdacb72de18c090aa967905.js",
+    "service-worker.js": "/whitepanda/service-worker.js",
+    "static/css/main.ab3c59bf.chunk.css.map": "/whitepanda/static/css/main.ab3c59bf.chunk.css.map"
+  }
+}
